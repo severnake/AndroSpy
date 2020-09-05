@@ -1,0 +1,1 @@
+for build client copy client project files into the "SV\SV\bin\Debug\resources\ProjectFolder\" this folder.
